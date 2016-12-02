@@ -409,23 +409,7 @@ footer a:hover {
   top: 10px;
 }
 
-.tag::after {
-  background: transparent;
-  border-bottom: 13px solid transparent;
-  border-left: 10px solid #eee;
-  border-top: 13px solid transparent;
-  content: '';
-  position: absolute;
-  right: 0;
-  top: 0;	
-}
-
 .tag:hover {
   background-color: crimson;
   color: white;
-}
-
-.tag:hover::after {
-   border-left-color: crimson; 
-   background: transparent;		
 }
