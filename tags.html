@@ -24,6 +24,7 @@
 
 <!-- Posts by Tag -->
 <div>
+    Hey, here's a test that it made it this far.
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
