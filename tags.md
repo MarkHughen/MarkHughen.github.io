@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tags
 description: Stochastic stuff blog's tags. List of articles and posts by tags.
 ---
