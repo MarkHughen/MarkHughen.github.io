@@ -395,7 +395,6 @@ footer a:hover {
   margin: 0 10px 10px 0;
   text-decoration: none;
   -webkit-transition: color 0.2s;
-  background: transparent;	
 }
 
 .tag::before {
@@ -411,20 +410,19 @@ footer a:hover {
 }
 
 .tag::after {
-  background: #fff;
+  background: transparent #fff;
   border-bottom: 13px solid transparent;
   border-left: 10px solid #eee;
   border-top: 13px solid transparent;
   content: '';
   position: absolute;
   right: 0;
-  top: 0;
+  top: 0;	
 }
 
 .tag:hover {
   background-color: crimson;
   color: white;
-  background: transparent;
 }
 
 .tag:hover::after {
