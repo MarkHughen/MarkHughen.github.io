@@ -5,11 +5,9 @@ layout: default
 <div class="meta">
   {{ page.date | date_to_string }} 
   tags: 
-  <ul class="tags">
     {% for tag in page.tags %}
-    <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
-  {% endfor %}
-</ul>
+      <a href="/tags#{{ tag }}" class="tag">{{ tag }} </a>
+    {% endfor %}
 </div>
 
 <div class="post">
