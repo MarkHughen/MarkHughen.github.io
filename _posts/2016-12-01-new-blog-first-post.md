@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_page
 title: New Github Pages with Jekyll - Also Try Markdown
 date: 2016-12-01
 tags: HelloWorld
