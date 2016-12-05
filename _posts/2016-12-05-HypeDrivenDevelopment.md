@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_page
 title: Hype Driven Development
 date: 2016-12-05
 tags: Hype Development
@@ -16,4 +16,3 @@ HDD Examples are discussed in social media: Reddit, conferences, Stack Overflow,
 * Mania - "This will solve all our problems, and revolutionize data sharing in county government."
 * Disappointment - "Holy crap it's hard to manage state across the entire network." "Redesigning all the batch programs into tiny services takes a lot of time."
 * Realization - Data sharing between organizations is difficult. It involves business product analysis and careful architecture. A framework change by itself doesn't fix everything.
-
