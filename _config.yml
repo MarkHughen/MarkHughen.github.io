@@ -4,7 +4,7 @@ permalink: /blog/:year/:month/:day/:title
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
 auto: true # automatically update your jekyll
-server: true # runs a local server
+#server: true # runs a local server
 paginate: 10 # pagination basted on number of posts
 exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
 
