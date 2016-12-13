@@ -17,4 +17,4 @@ Reading on a device is hard, you only get 36 seconds of attention. Plan for it<b
   * Plan -> Know readers, what action should readers take
 
 _*This infographic from his website says it all, create skimmable content that respects the reader’s time._<br>
-<img src="http://withoutbullshit.jbspartnersinc.netdna-cdn.com/wp-content/uploads/2016/07/Email-Anatomy.png"/>
+<img class="postIMG" src="http://withoutbullshit.jbspartnersinc.netdna-cdn.com/wp-content/uploads/2016/07/Email-Anatomy.png"/>
