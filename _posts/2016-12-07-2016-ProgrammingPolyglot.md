@@ -11,4 +11,4 @@ The cognitive advantages of speaking more than one language (polyglot) have been
 * Analagous patterns help original language concepts. Function patterns in F# expand understanding of C# lambda expressions.
 * Begin on a similar [branch in the language tree](https://exploringdata.github.io/vis/programming-languages-influence-network/#C#)
 
-   [![alt text](./images/ExploringData.jpg "Exploring Data")](https://exploringdata.github.io/vis/programming-languages-influence-network/#C#)
+  <a href="https://exploringdata.github.io/vis/programming-languages-influence-network/#C#"><img class="postIMG" src="/images/ExploringData.jpg" alt="Exploring Data"/></a>
