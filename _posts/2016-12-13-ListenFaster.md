@@ -10,4 +10,4 @@ It is possible to listen 3 times faster than the typical speaker's rate of deliv
 
 Use tools on YouTube, podcast players, and MP3 devices which increase playback speed. Practice speed reading for your ears, developing efficiency with escalating rate repetition.
 <br><br>
-<img class="postIMG" height="300" width"400" src="./images/IncreaseRate.jpg"/>
+<img class="postIMG" height="300" width="400" src="./images/IncreaseRate.jpg"/>
