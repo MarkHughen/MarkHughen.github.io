@@ -10,4 +10,4 @@ Joel Spolsky, CEO of Stack Overflow, keynote speech "Developers Writing the Futu
 * Emotional contagion through social networks - happy stories make you happy; sad stories make you sad. Are Facebook's programmers writing algorithms to control your emotions? Why reinforce sad users? - Encourage Facebook clicking.
 * How do you solve programming questions? Do you have a Stack Overflow reputation? Can this be as important as a diverse GitHub repository?
 <br>
-<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/AGyIbZotKlk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" style="text-align:center" src="https://www.youtube.com/embed/AGyIbZotKlk" frameborder="0" allowfullscreen></iframe>
