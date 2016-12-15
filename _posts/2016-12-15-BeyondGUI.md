@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Beyond GUI: Let's Make Bots 
+title: Beyond GUI - Let's Make Bots 
 date: 2016-12-15
 tags: Programming Bots
 ---
