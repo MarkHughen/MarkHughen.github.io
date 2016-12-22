@@ -12,7 +12,7 @@ Manipulating cadence, volume, and white space creates emphasis. Miller reminds u
 
 Some channels feel familiar with mobile development practices, although questionable with business applications:
 * Auditory feedback with touch clicks and beeps.
-* Haptic and proprioceptive tactile feedback are both effective inputs. _Can't wait to try HTC Vive controller._
+* Haptic and proprioceptive tactile feedback are both effective inputs. Can't wait to try HTC Vive controller.
 
 Others seem more experimental:
 * How close are we to providing access to taste feedback?
