@@ -11,9 +11,13 @@ Mark Miller discusses feedback channels and UI design in his podcast with [.NET 
 Manipulating cadence, volume, and white space creates emphasis. Miller reminds us that **granularity should match the importance of the message**.
 
 Some channels feel familiar with mobile development practices, although questionable with business applications:
-* Auditory feedback with touch clicks and beeps.
-* Haptic and proprioceptive tactile feedback are both effective inputs. Can't wait to try HTC Vive controller.
+<ul>
+<li>Auditory feedback with touch clicks and beeps.</li>
+<li>Haptic and proprioceptive tactile feedback are both effective inputs. _Can't wait to try HTC Vive controller_.</li>
+</ul>
 
 Others seem more experimental:
-* How close are we to providing access to taste feedback?
-* Thankfully, deep pain (electrocution) is a poor mechanism due to relatively slow neural response. Remember delayed pain from stubbing your toe.
+<ul>
+<li>How close are we to providing access to taste feedback?</li>
+<li>Thankfully, deep pain (electrocution) is a poor mechanism due to relatively slow neural response. Remember delayed pain from stubbing your toe.</li>
+</ul>
