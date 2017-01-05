@@ -18,6 +18,6 @@ Traviscj recently posted ["Oblique Programming Strategies."](https://traviscj.co
 Many of these remind me of [Tim Ferriss' 17 Questions](http://fourhourworkweek.com/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/):
 <ul>
 <li>What if I did the opposite for 48 hours?</li>
-<li>What if I could only subtact to solve problems? _This is a remarkably good strategy when debugging code_</li>
+<li>What if I could only subtract to solve problems? _This is a remarkably good strategy when debugging code_</li>
 <li>Am I hunting antelope or field mice? _solve big problems_</li>
 </ul>
