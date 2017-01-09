@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Where Do You Get Stuck: How Can You Get Unstuck
+title: Where Do You Get Stuck - How Can You Get Unstuck
 date: 2017-01-09
 tags: Programming
 ---
