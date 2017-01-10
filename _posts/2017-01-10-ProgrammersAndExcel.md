@@ -4,7 +4,7 @@ title: Programmers and Excel?
 date: 2017-01-10
 tags: Business
 ---
-Is there value for programmers to know Excel? Joel Spolsky thinks there is, and provides a tutorial to help you get better. 
+Is there value for programmers to know Excel? Joel Spolsky thinks there is, and provides a tutorial to help you get better. _Table functionality is worth the watch by itself and learn to use pivot tables._
 
 * Spreadsheets are the first and easiest database we are allowed to access.
 * We work with business people, let's help them do better work.
