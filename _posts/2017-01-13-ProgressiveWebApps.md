@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Progressive Web Apps (PWA) - Should We Build Native Mobile Anymore?
+title: Progressive Web Apps (PWA) - Should We Continue Developing Native Mobile?
 date: 2017-01-13
 tags: Programming
 ---
