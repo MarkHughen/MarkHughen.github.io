@@ -35,3 +35,5 @@ Creates a web site application which is good enough to be installed on homescree
 <li>This is not a new framework, but works with the web: HTML, CSS, JavaScript</li>
 <li>Symmetrical implementation between the browsers.</li>
 </ul>
+
+PS - Have a look at WebCrypto and IndexedDB as an alternative to localstorage. Could fit nicely with PWAs https://medium.com/@mobitar/moving-beyond-localstorage-991e3695be15#.ergzpe6le
